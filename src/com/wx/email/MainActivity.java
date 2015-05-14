@@ -8,7 +8,7 @@ import android.os.Environment;
 import android.util.Log;
 import android.view.View;
 
-/**
+/*
  * 使用mail.jar发送邮件
  * 由于android是阉割版所以取消javax包下的内容
  * @author WangXiang
